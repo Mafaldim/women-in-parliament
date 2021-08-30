@@ -164,5 +164,5 @@ if __name__ == "__main__":
     df['month'].replace(to_replace=to_replace_dct, inplace=True)
 
     # Save to csv
-    df.to_csv('./data/women_in_parliament-historical_database-1945_to_2018_cleaned.csv')
+    df.to_csv('./data/women_in_parliament-historical_database-1945_to_2018_cleaned.csv',index=False)
 
