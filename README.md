@@ -12,7 +12,7 @@ In many countries, women have been under-represented in the government and diffe
 </figure>
 
 
-The rise is more obvious looking at the global average of women participation in national parliaments by decade as shown in *Figure 2* and *Figure 3*. In the 50's and 60's, women accounted only for 5% of parliament members whilst in the late 70's their percentage almost doubled reaching 9% of total. 80's and 90's followed the same upward trend with 1.4% and 1.7% increase in the global average from the previous decade respectively. However, the highest percentage increase through the years was from 90's to 00's (almost 5.5%); the mean global percentage of women participation reached 16% in the 00's compared to 10.4% in the 90's. Women's participation continued to rise with the rate from 2000 onwards, reaching almost 25% in the recent years.
+The rise is more obvious looking at the global average of women participation in national parliaments by decade as shown in *Figure 2* and *Figure 3*. In the '50s and '60s, women accounted only for 5% of parliament members whilst in the late '70s their percentage almost doubled reaching 9% of the total. 80's and 90's followed the same upward trend with 1.4% and 1.7% increase in the global average from the previous decade respectively. However, the highest percentage increase through the years was from '90s to '00s (almost 5.5%); the mean global percentage of women participation reached 16% in the '00s compared to 10.4% in the '90s. Women's participation continued to rise with the same rate from 2000 onwards, reaching almost 25% in recent years.
 
 |![](images/globalAVG_decade.png) | ![](images/globalAVG_boxplots.png)|
 |---|---|
