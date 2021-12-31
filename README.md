@@ -2,12 +2,12 @@
 
 ## Historical Background (1948 to 2018)
 
-In many countries, women have been under-represented in the government and different institutions. *Figure 1* shows the percentage of women's participation in parliaments averaged for all countries around the world from 1945 to 2018. It's apparent that this historical tendency still persists, although women's percentage in national parliaments is constantly increasing; there was an impressive rise through the last 20 years from 10% in 2000 to almost 25% in 2018.
+In many countries, women have been under-represented in the government and different institutions. *Figure 1* shows the percentage of women's participation in parliaments averaged for all countries around the world from 1945 to 2018. It is apparent that there is a historical tendency of insufficient representation, although women's percentage in national parliaments is constantly increasing; there was an impressive rise through the last 20 years from 10% in 2000 to almost 25% in 2018.
 
 <figure>
 <p align="center">
 <img src="images/globalAVG_1945_18.png" alt="Figure 1" width="500">
-<figcaption align = "center"><b>Figure 1: Global Average of Women Parliament Participation from 1945 to 2018.</b></figcaption>
+<figcaption align = "center"><b>Figure 1: Global Average of Women's Parliament Participation from 1945 to 2018.</b></figcaption>
 </p>
 </figure>
 
