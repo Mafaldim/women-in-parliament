@@ -22,7 +22,7 @@ if __name__ == "__main__":
         'NOTES':'notes'
     }, inplace=True)
 
-    # Transform numerical columns listed as categorical ('women_total', 'women_perc')
+    # Transform to numeric columns listed as categorical ('women_total', 'women_perc')
     ## replace non-numerical values for 'women_total' attribute
     #non_numerical_values = [print(item) for i,item in enumerate(temp) if type(item)!= int] #print non-numerical values
     to_replace_dct = {
@@ -39,23 +39,19 @@ if __name__ == "__main__":
         '25 29 19???': np.nan
     }
     df['women_total'].replace(to_replace=to_replace_dct, inplace=True)
-
     ## replace non-numerical values for 'women_perc' attribute
     #non_numerical_values = [print(item) for i,item in enumerate(temp) if type(item)== str] #print non-numerical values
     for i in range(len(df['women_perc'])):
         if type(df['women_perc'].iloc[i]) == str and df['women_perc'].iloc[i][-1] == '%':
             df['women_perc'].iloc[i] = float( df['women_perc'].iloc[i][:-1])*0.01
-
     df['women_perc'].replace(to_replace=to_replace_dct, inplace=True)
-
     ## transform type to float
     df['women_total'] = df['women_total'].astype(np.float16)
     df['women_perc'] = df['women_perc'].astype(np.float16)
 
-    # Normalise categorical values
+    # Normalise categorical values for attributes: 'chamber_type','country', 'chamber_type', 'country', 'month'
     df['chamber_type'] = df['chamber_type'].apply(lambda x: x.strip(' ') )
     df['country'] = df['country'].apply(lambda x: x.strip(' ') )
-
     to_replace_dct = {
         'Lower': 'lower',
         'Upper': 'upper',
@@ -65,13 +61,11 @@ if __name__ == "__main__":
         'Single Lower?': 'lower',
         'Special': 'temporary_assembly',
         'Temporary Assembly': 'temporary_assembly',
-        'Constituent Assembly': 'single', # from notes; Uganda Unicameral Consistuent Assembly
+        'Constituent Assembly': 'single', # from notes; Uganda Unicameral Consistußent Assembly
         'Council': 'Single' # from notes; Nepal, Qatar, Saudi Arabia
     }
     df['chamber_type'].replace(to_replace=to_replace_dct, inplace=True)
-
     df['country'].replace('Iran (Islamic Republic Of)', 'Iran (Islamic Republic of)', inplace=True)
-
     to_replace_dct = {
         'january': 'January',
         'january ': 'January',
@@ -165,6 +159,9 @@ if __name__ == "__main__":
 
     # Keep 2 decimal places - women percentage
     df['women_perc'] = round(df['women_perc'], 2)
+
+    # Calculate decade
+    df['decade'] = df['year']//10*10
 
     # Save to csv
     df.to_csv('./data/women_in_parliament-historical_database-1945_to_2018_cleaned.csv',index=False)
