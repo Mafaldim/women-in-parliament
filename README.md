@@ -44,7 +44,7 @@ Sub-Saharan Africa countries recorded similar growth rates with the majority rea
 
 Women's participation in parliament in the Americas has recorded the highest growth in the last 20 years with Cuba, Bolivia, Mexico and Nicaragua being amongst the countries with the highest share of women representation in the world in 2018. Europe is the only region in the world with at least 10% women in parliament for every single country in the region. The Nordic countries distinguish from the rest being the only subregion to have topped the 40 per cent threshold, however there is no country in Europe that has achieved parity in goverment.
 
-## Women's Participation in 2018
+## Women's Participation as of 1st of September 2021
 
 
 World
