@@ -1,44 +1,53 @@
 
-@font-face {
-  font-family: "lobsterregular";
-  src: url("./fonts/lobster-regular-webfont.woff2") format("woff2"),
-    url("./fonts/lobster-regular-webfont.woff") format("woff");
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "work_sansregular";
-  src: url("./fonts/worksans-variablefont_wght-webfont.woff2") format("woff2"),
-    url("./fonts/worksans-variablefont_wght-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
+.title{
+  font-family: "Nunito", sans-serif;
+  color: Gray;
 }
 
 * {
   padding: 0px;
   margin: 0;
-  font-family: work_sansregular;
+  font-family: 'Nunito', sans-serif;
+  color: Gray;
 }
 
 .navbar-text {
-  color: rgb(250, 250, 250);
+  font-family: 'Nunito', sans-serif;
 }
 
 .navbar-brand {
-  color: rgb(250, 250, 250);
-  font-family: lobsterregular;
+  font-family: 'Nunito', sans-serif;
   font-size: 2.5rem;
 }
 
 .navbar-brand:hover {
-  color: rgb(250, 250, 250);
-  font-family: lobsterregular;
+  font-family: 'Nunito', sans-serif;
 }
 
 .site-header-logo h1 {
-  color: rgb(39, 147, 248);
-  font-family: lobsterregular;
+  color: CornflowerBlue;
+  font-family: 'Nunito', sans-serif;
   font-size: 3rem;
   margin-top: 2rem;
+}
+
+div.container {
+  display: grid;
+  grid-template-columns: 500px 5px auto;
+  grid-template-rows: auto;
+}
+
+div.left {
+  width: 80px;
+  float: left;
+}
+
+div.right {
+  margin-left: 300px;
+  padding-top: 10px;
+  background-color: Silver;
+}
+
+div.clear {
+  clear: both;
 }
