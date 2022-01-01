@@ -8,25 +8,39 @@
 <div class="row p-4">
     <div class="card m-auto" style="width: 90%">
         <div class="card-body">
-            <div id="chart1"></div>
-                <p>fafaraefaergfarefraeg</p>
+            <p>fafaraefaergfarefraeg</p>
+            <div id="chart1" class="left"></div>
+
         </div>
-    <div class="card-body">
-        <div id="chart2"></div>
-            <p>fafaraefaergfdffarefraeg</p>
-    </div>
+        <div class="container">
+            <div id="chart2" class="left"></div>
+            <div id="chart4" class="right"></div>
+
+        </div>
+        <p>fafaraefaerdflhdfkgahjkghajkhgf;dkjhg;kahf;gjkfdhkj;ghfdjkgha;gjha;dhjfhdfhka;gfhak;
+            fgfdgxdfgfdnkfjnkjadg;kajbfag;kbfg;akbgfdffarefraeg</p>
+        <div class="container">
+            <div id="chart3"></div>
+        </div>
+
     </div>
 
 </div>
 
-<!-- plotly CDN-->>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!--  Plotly  -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script>
     var graph1 = {{graph1JSON | safe}};
     Plotly.plot("chart1", graph1, {})
 
     var graph2 = {{graph2JSON | safe}};
     Plotly.plot("chart2", graph2, {})
+
+    var graph3 = {{graph3JSON | safe}};
+    Plotly.plot("chart3", graph3, {})
+
+    var graph4 = {{graph4JSON | safe}};
+    Plotly.plot("chart4", graph4, {})
 </script>
 
 {% endblock %}
