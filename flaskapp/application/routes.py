@@ -33,7 +33,27 @@ def index():
 
     graph1JSON = json.dumps(fig1, cls=plotly.utils.PlotlyJSONEncoder)
 
+    # Graph2
+    fig2 = px.box(df, x="decade", y="women_perc", color="decade",
+             title="Women Representation in Parliament (Global Average) from 50's to 10's ",
+             labels=dict(women_perc='Women (%)', decade='Decade')
+            )
+
+    fig2.update_layout(
+            font_family="Courier New",
+            font_color="grey",
+            title_font_family="Courier New",
+            title_font_color="#1f77b4",
+            legend_title_font_color="grey",
+            autosize=False,
+            width=800,
+            height=400
+            )
+
+    graph2JSON = json.dumps(fig2, cls=plotly.utils.PlotlyJSONEncoder)
+
+
     
 
 
-    return render_template("index.html", title="Home", graph1JSON = graph1JSON)
+    return render_template("index.html", title="Home", graph1JSON = graph1JSON, graph2JSON = graph2JSON)
