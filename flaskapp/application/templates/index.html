@@ -36,6 +36,9 @@
         <div class="container4">
             <div id="chart4"></div>
         </div>
+        <div class="container5">
+            <div id="chart5"></div>
+        </div>
 
     </div>
 
@@ -55,6 +58,10 @@
 
     var graph4 = {{graph4JSON | safe}};
     Plotly.plot("chart4", graph4, {})
+
+    var graph5 = {{graph5JSON | safe}};
+    Plotly.plot("chart5", graph5, {})
+
 </script>
 
 {% endblock %}
