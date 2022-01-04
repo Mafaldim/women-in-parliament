@@ -1,6 +1,6 @@
 from application import app
 from flask import render_template, url_for
-import pandas as pd
+import pandas as pd, numpy as np
 import plotly
 import plotly.express as px
 import json
@@ -89,8 +89,20 @@ def index():
 
     graph4JSON = json.dumps(fig4, cls=plotly.utils.PlotlyJSONEncoder)
 
+    # Graph 5
+    df_2021_region = pd.read_csv('../data/women_percent_as_of2021_with_regions.csv')
+    fig5 = px.treemap(df_2021_region, 
+                 path=[px.Constant("world"), 'region', 'country'], 
+                 values='%W',
+                 color='%W', 
+                 title='Women Representation in Parliament 2021',
+                 color_continuous_scale='RdBu',
+                 color_continuous_midpoint=np.average(df_2021_region['%W'], weights=df_2021_region['%W']),
+                 hover_data = ['%W'])
+    fig5.update_traces(root_color="red")
+    fig5.update_layout(margin = dict(t=50, l=25, r=25, b=25))
+    fig5.data[0].hovertemplate = "%{label}<br>%{value}%"
 
-    
+    graph5JSON = json.dumps(fig5, cls=plotly.utils.PlotlyJSONEncoder) 
 
-
-    return render_template("index.html", title="Home", graph1JSON = graph1JSON, graph2JSON = graph2JSON, graph3JSON = graph3JSON,graph4JSON = graph4JSON)
+    return render_template("index.html", title="Home", graph1JSON = graph1JSON, graph2JSON = graph2JSON, graph3JSON = graph3JSON, graph4JSON = graph4JSON, graph5JSON = graph5JSON)
