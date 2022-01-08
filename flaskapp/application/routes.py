@@ -68,26 +68,7 @@ def index():
     graph3JSON = json.dumps(fig3, cls=plotly.utils.PlotlyJSONEncoder)
 
     # Graph 4
-    df4 = pd.read_csv('../data/participation_by_decade_country_pop.csv')
-
-    fig4 = px.scatter(df4, x='country', y='women_perc', color='country', size='pop',
-                facet_col='decade', facet_col_wrap=2,facet_row_spacing=0.10,
-                title='Women Participation in Parliaments(%) by Decade - World',
-                labels=dict(women_perc='Women(%)', decade='Decade',
-                country='Country',pop='Population (thousands)'),
-
-    )
-    fig4.update_layout(
-            font_family="Courier New",
-            font_color="grey",
-            title_font_family="Courier New",
-            title_font_color="#1f77b4",
-            legend_title_font_color="grey"
-            )
-    fig4.update_xaxes(visible=False, showticklabels=False)
-    fig4.update_yaxes(tick0=0, dtick=0.2,title_font = {"size": 11} )
-
-    graph4JSON = json.dumps(fig4, cls=plotly.utils.PlotlyJSONEncoder)
+    
 
     # Graph 5
     df_2021_region = pd.read_csv('../data/women_percent_as_of2021_with_regions.csv')

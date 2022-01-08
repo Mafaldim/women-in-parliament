@@ -1,6 +1,7 @@
 ## Data Source: 
 - [IPU Parline - Global data on national parliaments](https://data.ipu.org/historical-women) from 1945 to 2018
 - [World Population - United Nations](https://population.un.org/wpp/Download/Standard/Population/)
+- [Ranking as of 1st September 2021](https://data.ipu.org/women-ranking?month=9&year=2021)
 
 ### Structure of Parliament: 
 - Bicameral
