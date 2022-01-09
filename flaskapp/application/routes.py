@@ -73,7 +73,7 @@ def index():
     fig4 = px.scatter(df_historic_iso, x="country", y="women_perc"
                     ,color="year",color_continuous_scale=px.colors.sequential.Turbo
                     ,labels=dict(women_perc='Women (%)', year='Year', country='Country')
-                    ,title='Women Representation in Parliament Through the Years - Country Level',)
+                    ,title='Women Representation in Parliament Through the Years - Country Level from 1945 to 2018',)
     fig4.update_traces(marker_size=10)
 
     fig4.update_traces(marker=dict(size=8,
