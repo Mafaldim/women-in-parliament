@@ -15,7 +15,7 @@ def index():
     df['women_perc'] = round(df['women_perc'], 2)
 
     fig1 = px.line(df, x='year_', y=['women_perc','RM5'],
-            title='Women Representation in Parliament (Global Average) from 1945 to 2018',
+            title="Women's Representation in Parliament from 1945 to 2018 (Global Average)",
             markers=True,
             labels=dict(year_='Year', women_perc='Participation (%)')
             )
@@ -30,7 +30,8 @@ def index():
             autosize=False,
             width=800,
             height=500
-        )
+    )
+
     fig1.update_xaxes(nticks=10)
     fig1.update_xaxes(rangeslider_visible=True)
 
