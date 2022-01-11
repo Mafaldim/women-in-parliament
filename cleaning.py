@@ -7,6 +7,7 @@ if __name__ == "__main__":
         
     # Read data
     df = pd.read_excel('./data/women_in_parliament-historical_database-1945_to_2018.xlsx')
+    print('ok')
 
     # Rename columns
     df.rename(columns={
@@ -22,6 +23,7 @@ if __name__ == "__main__":
         'NOTES':'notes'
     }, inplace=True)
 
+    
     # Transform to numeric columns listed as categorical ('women_total', 'women_perc')
     ## replace non-numerical values for 'women_total' attribute
     #non_numerical_values = [print(item) for i,item in enumerate(temp) if type(item)!= int] #print non-numerical values
@@ -66,6 +68,12 @@ if __name__ == "__main__":
     }
     df['chamber_type'].replace(to_replace=to_replace_dct, inplace=True)
     df['country'].replace('Iran (Islamic Republic Of)', 'Iran (Islamic Republic of)', inplace=True)
+    df['country'].replace('Germany (Democratic Republic)', 'Germany', inplace=True)
+    df['country'].replace('Germany (Federal Republic Of)', 'Germany', inplace=True)
+
+    df['country'].replace('Yemen North (Yemen Arab Republic)', 'Yemen', inplace=True)
+    df['country'].replace("Yemen South (People's Democratic Republic)", 'Yemen', inplace=True)
+
     to_replace_dct = {
         'january': 'January',
         'january ': 'January',
@@ -156,6 +164,10 @@ if __name__ == "__main__":
         'July ': 'July'
         }
     df['month'].replace(to_replace=to_replace_dct, inplace=True)
+
+    # select chambers
+    selected_chambers = ['lower','single','single lower','temporary assembly']
+    df = df[df['chamber_type'].isin(selected_chambers)]
 
     # Keep 2 decimal places - women percentage
     df['women_perc'] = round(df['women_perc'], 2)
