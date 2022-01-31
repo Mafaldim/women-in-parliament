@@ -1,0 +1,700 @@
+country,region,election_renewal,year,chamber_total_seats,women_total,women_perc
+Albania,EUR,Yes,1960,187,17,0.09
+Albania,EUR,Yes,1970,264,72,0.27
+Albania,EUR,Yes,1980,250,76,0.3
+Albania,EUR,Yes,1990,250,9,0.04
+Albania,EUR,Yes,2000,140,8,0.06
+Albania,EUR,Yes,2010,140,23,0.16
+Albania,EUR,Yes,2017,140,39,0.28
+Algeria,MENA,Yes,1960,196,10,0.05
+Algeria,MENA,Yes,1970,261,10,0.04
+Algeria,MENA,Yes,1980,282,4,0.01
+Algeria,MENA,Yes,1990,295,7,0.02
+Algeria,MENA,Yes,2000,389,24,0.06
+Algeria,MENA,Yes,2010,389,30,0.08
+Algeria,MENA,Yes,2017,462,119,0.26
+Argentina,AME,Yes,1960,190,2,0.01
+Argentina,AME,Yes,1970,243,19,0.08
+Argentina,AME,Yes,1980,254,10,0.04
+Argentina,AME,Yes,1990,254,16,0.06
+Argentina,AME,Yes,2000,257,79,0.31
+Argentina,AME,Yes,2010,257,96,0.37
+Argentina,AME,Yes,2017,257,98,0.38
+Australia,PAC,Yes,1960,124,0,0
+Australia,PAC,Yes,1970,125,0,0
+Australia,PAC,Yes,1980,125,3,0.02
+Australia,PAC,Yes,1990,148,10,0.07
+Australia,PAC,Yes,2000,150,38,0.25
+Australia,PAC,Yes,2010,150,37,0.25
+Australia,PAC,Yes,2017,150,43,0.29
+Austria,EUR,Yes,1960,165,9,0.05
+Austria,EUR,Yes,1970,165,8,0.05
+Austria,EUR,Yes,1980,183,17,0.09
+Austria,EUR,Yes,1990,183,36,0.2
+Austria,EUR,Yes,2000,183,62,0.34
+Austria,EUR,Yes,2010,183,51,0.28
+Austria,EUR,Yes,2017,183,63,0.34
+Belgium,EUR,Yes,1960,212,11,0.05
+Belgium,EUR,Yes,1970,212,6,0.03
+Belgium,EUR,Yes,1980,212,12,0.06
+Belgium,EUR,Yes,1990,212,20,0.09
+Belgium,EUR,Yes,2000,150,35,0.23
+Belgium,EUR,Yes,2010,150,59,0.39
+Belgium,EUR,Yes,2017,150,59,0.39
+Benin,SUB-SAHARAN,Yes,1960,?,,0
+Benin,SUB-SAHARAN,Yes,1980,336,28,0.08
+Benin,SUB-SAHARAN,Yes,1990,64,4,0.06
+Benin,SUB-SAHARAN,Yes,2000,83,6,0.07
+Benin,SUB-SAHARAN,Yes,2017,83,6,0.07
+Bolivia,AME,Yes,1960,103,0,0
+Bolivia,AME,Yes,1970,103,1,0.01
+Bolivia,AME,Yes,1980,130,1,0.01
+Bolivia,AME,Yes,1990,130,14,0.11
+Bolivia,AME,Yes,2000,130,24,0.18
+Bolivia,AME,Yes,2010,130,69,0.53
+Botswana,SUB-SAHARAN,Yes,1960,31,0,0
+Botswana,SUB-SAHARAN,Yes,1970,36,0,0
+Botswana,SUB-SAHARAN,Yes,1980,37,2,0.05
+Botswana,SUB-SAHARAN,Yes,1990,40,2,0.05
+Botswana,SUB-SAHARAN,Yes,2000,47,8,0.17
+Botswana,SUB-SAHARAN,Yes,2010,63,5,0.08
+Botswana,SUB-SAHARAN,Yes,2017,63,6,0.1
+Brazil,AME,Yes,1960,409,2,0
+Brazil,AME,Yes,1970,310,1,0
+Brazil,AME,Yes,1980,479,7,0.01
+Brazil,AME,Yes,1990,503,28,0.06
+Brazil,AME,Yes,2000,513,44,0.09
+Brazil,AME,Yes,2010,513,44,0.09
+Brazil,AME,Yes,2017,513,77,0.15
+Bulgaria,EUR,Yes,1960,321,65,0.2
+Bulgaria,EUR,Yes,1970,400,75,0.19
+Bulgaria,EUR,Yes,1980,400,87,0.22
+Bulgaria,EUR,Yes,1990,400,34,0.08
+Bulgaria,EUR,Yes,2000,240,63,0.26
+Bulgaria,EUR,Yes,2010,240,50,0.21
+Bulgaria,EUR,Yes,2017,240,57,0.24
+Burundi,SUB-SAHARAN,Yes,1960,64,0,0
+Burundi,SUB-SAHARAN,Yes,1970,33,0,0
+Burundi,SUB-SAHARAN,Yes,1980,65,6,0.09
+Burundi,SUB-SAHARAN,Yes,1990,81,10,0.12
+Burundi,SUB-SAHARAN,Yes,2000,118,36,0.31
+Burundi,SUB-SAHARAN,Yes,2010,106,32,0.3
+Burundi,SUB-SAHARAN,Yes,2017,121,44,0.36
+Cambodia,ASIA,Yes,1960,77,0,0
+Cambodia,ASIA,Yes,1970,126,4,0.03
+Cambodia,ASIA,Yes,1980,117,22,0.19
+Cambodia,ASIA,Yes,1990,120,7,0.06
+Cambodia,ASIA,Yes,2000,123,12,0.1
+Cambodia,ASIA,Yes,2010,123,20,0.16
+Cambodia,ASIA,Yes,2017,125,19,0.15
+Cameroon,SUB-SAHARAN,Yes,1960,100,1,0.01
+Cameroon,SUB-SAHARAN,Yes,1970,50,2,0.04
+Cameroon,SUB-SAHARAN,Yes,1980,120,12,0.1
+Cameroon,SUB-SAHARAN,Yes,1990,180,22,0.12
+Cameroon,SUB-SAHARAN,Yes,2000,180,16,0.09
+Cameroon,SUB-SAHARAN,Yes,2010,163,24,0.15
+Canada,AME,Yes,1960,265,5,0.02
+Canada,AME,Yes,1970,264,1,0
+Canada,AME,Yes,1980,282,14,0.05
+Canada,AME,Yes,1990,295,53,0.18
+Canada,AME,Yes,2000,301,60,0.2
+Canada,AME,Yes,2010,308,76,0.25
+Canada,AME,Yes,2017,304,77,0.25
+Colombia,AME,Yes,1960,190,7,0.04
+Colombia,AME,Yes,1970,210,9,0.04
+Colombia,AME,Yes,1980,199,7,0.04
+Colombia,AME,Yes,1990,199,17,0.09
+Colombia,AME,Yes,2000,161,19,0.12
+Colombia,AME,Yes,2010,166,21,0.13
+Colombia,AME,Yes,2017,171,32,0.19
+Congo (Republic of),SUB-SAHARAN,Yes,1960,58,0,0
+Congo (Republic of),SUB-SAHARAN,Yes,1970,125,8,0.06
+Congo (Republic of),SUB-SAHARAN,Yes,1980,153,13,0.08
+Congo (Republic of),SUB-SAHARAN,Yes,1990,133,19,0.14
+Congo (Republic of),SUB-SAHARAN,Yes,2000,129,12,0.09
+Congo (Republic of),SUB-SAHARAN,Yes,2010,136,10,0.07
+Congo (Republic of),SUB-SAHARAN,Yes,2017,151,17,0.11
+Costa Rica,AME,Yes,1960,57,1,0.02
+Costa Rica,AME,Yes,1970,57,4,0.07
+Costa Rica,AME,Yes,1980,57,4,0.07
+Costa Rica,AME,Yes,1990,57,7,0.12
+Costa Rica,AME,Yes,2000,57,18,0.32
+Costa Rica,AME,Yes,2010,57,22,0.39
+Costa Rica,AME,Yes,2017,57,26,0.46
+Cote d'Ivoire,SUB-SAHARAN,Yes,1960,70,0,0
+Cote d'Ivoire,SUB-SAHARAN,Yes,1970,100,3,0.03
+Cote d'Ivoire,SUB-SAHARAN,Yes,1980,147,8,0.05
+Cote d'Ivoire,SUB-SAHARAN,Yes,1990,175,8,0.05
+Cote d'Ivoire,SUB-SAHARAN,Yes,2000,223,19,0.09
+Cote d'Ivoire,SUB-SAHARAN,Yes,2017,251,23,0.09
+Cuba,AME,Yes,1960,128,3,0.02
+Cuba,AME,Yes,1970,481,107,0.22
+Cuba,AME,Yes,1980,499,113,0.23
+Cuba,AME,Yes,1990,589,134,0.23
+Cuba,AME,Yes,2000,609,219,0.36
+Cuba,AME,Yes,2010,586,265,0.45
+Cuba,AME,Yes,2017,605,322,0.53
+Cyprus,EUR,Yes,1960,35,0,0
+Cyprus,EUR,Yes,1970,35,0,0
+Cyprus,EUR,Yes,1980,35,1,0.03
+Cyprus,EUR,Yes,1990,56,3,0.05
+Cyprus,EUR,Yes,2000,56,6,0.11
+Cyprus,EUR,Yes,2010,56,6,0.11
+Cyprus,EUR,Yes,2017,56,10,0.18
+Democratic People's Republic of Korea,ASIA,Yes,1960,383,34,0.09
+Democratic People's Republic of Korea,ASIA,Yes,1970,541,113,0.21
+Democratic People's Republic of Korea,ASIA,Yes,1980,615,120,0.2
+Democratic People's Republic of Korea,ASIA,Yes,1990,687,138,0.2
+Democratic People's Republic of Korea,ASIA,Yes,2000,687,138,0.2
+Democratic People's Republic of Korea,ASIA,Yes,2010,300,41,0.14
+Democratic People's Republic of Korea,ASIA,Yes,2017,687,112,0.16
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,1960,137,0,0
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,1970,420,12,0.03
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,1980,310,11,0.04
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,1990,453,7,0.02
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,2000,500,60,0.12
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,2010,492,44,0.09
+Democratic Republic of the Congo,SUB-SAHARAN,Yes,2017,500,50,0.1
+Denmark,EUR,Yes,1960,179,17,0.1
+Denmark,EUR,Yes,1970,179,31,0.17
+Denmark,EUR,Yes,1980,179,42,0.23
+Denmark,EUR,Yes,1990,179,59,0.33
+Denmark,EUR,Yes,2000,179,68,0.38
+Denmark,EUR,Yes,2010,179,70,0.39
+Denmark,EUR,Yes,2017,179,67,0.37
+Djibouti,SUB-SAHARAN,Yes,1970,65,0,0
+Djibouti,SUB-SAHARAN,Yes,1980,65,0,0
+Djibouti,SUB-SAHARAN,Yes,1990,65,0,0
+Djibouti,SUB-SAHARAN,Yes,2000,65,7,0.11
+Djibouti,SUB-SAHARAN,Yes,2010,65,9,0.14
+Djibouti,SUB-SAHARAN,Yes,2017,65,17,0.26
+Dominican Republic,AME,Yes,1960,75,2,0.03
+Dominican Republic,AME,Yes,1970,74,3,0.04
+Dominican Republic,AME,Yes,1980,120,7,0.06
+Dominican Republic,AME,Yes,1990,120,14,0.12
+Dominican Republic,AME,Yes,2000,150,26,0.17
+Dominican Republic,AME,Yes,2010,183,38,0.21
+Dominican Republic,AME,Yes,2017,183,38,0.21
+Ecuador,AME,Yes,1960,73,2,0.03
+Ecuador,AME,Yes,1970,74,0,0
+Ecuador,AME,Yes,1980,69,0,0
+Ecuador,AME,Yes,1990,67,5,0.07
+Ecuador,AME,Yes,2000,100,16,0.16
+Ecuador,AME,Yes,2010,124,40,0.32
+Ecuador,AME,Yes,2017,137,53,0.39
+Egypt,MENA,Yes,1960,600,7,0.01
+Egypt,MENA,Yes,1970,360,3,0.01
+Egypt,MENA,Yes,1980,392,35,0.09
+Egypt,MENA,Yes,1990,454,10,0.02
+Egypt,MENA,Yes,2000,454,11,0.02
+Egypt,MENA,Yes,2010,512,65,0.13
+Egypt,MENA,Yes,2017,596,89,0.15
+El Salvador,AME,Yes,1960,52,1,0.02
+El Salvador,AME,Yes,1970,52,2,0.04
+El Salvador,AME,Yes,1980,60,7,0.12
+El Salvador,AME,Yes,1990,84,7,0.08
+El Salvador,AME,Yes,2000,84,8,0.1
+El Salvador,AME,Yes,2010,84,16,0.19
+El Salvador,AME,Yes,2017,84,26,0.31
+Ethiopia,SUB-SAHARAN,Yes,1960,210,4,0.02
+Ethiopia,SUB-SAHARAN,Yes,1970,250,4,0.02
+Ethiopia,SUB-SAHARAN,Yes,1980,835,1,0
+Ethiopia,SUB-SAHARAN,Yes,1990,537,11,0.02
+Ethiopia,SUB-SAHARAN,Yes,2000,546,42,0.08
+Ethiopia,SUB-SAHARAN,Yes,2010,547,152,0.28
+Ethiopia,SUB-SAHARAN,Yes,2017,546,212,0.39
+Fiji,PAC,Yes,1960,52,2,0.04
+Fiji,PAC,Yes,1970,52,2,0.04
+Fiji,PAC,Yes,1980,52,1,0.02
+Fiji,PAC,Yes,1990,70,1,0.01
+Fiji,PAC,Yes,2000,71,5,0.07
+Fiji,PAC,Yes,2010,50,8,0.16
+Fiji,PAC,Yes,2017,51,10,0.2
+Finland,EUR,Yes,1960,200,28,0.14
+Finland,EUR,Yes,1970,200,33,0.16
+Finland,EUR,Yes,1980,200,52,0.26
+Finland,EUR,Yes,1990,200,78,0.39
+Finland,EUR,Yes,2000,200,75,0.38
+Finland,EUR,Yes,2010,200,85,0.42
+Finland,EUR,Yes,2017,200,83,0.42
+France,EUR,Yes,1960,586,9,0.02
+France,EUR,Yes,1970,490,13,0.03
+France,EUR,Yes,1980,491,35,0.07
+France,EUR,Yes,1990,577,37,0.06
+France,EUR,Yes,2000,577,71,0.12
+France,EUR,Yes,2010,577,107,0.19
+France,EUR,Yes,2017,577,224,0.39
+Gabon,SUB-SAHARAN,Yes,1960,67,1,0.01
+Gabon,SUB-SAHARAN,Yes,1970,70,3,0.04
+Gabon,SUB-SAHARAN,Yes,1980,93,13,0.14
+Gabon,SUB-SAHARAN,Yes,1990,119,7,0.06
+Gabon,SUB-SAHARAN,Yes,2000,119,11,0.09
+Gabon,SUB-SAHARAN,Yes,2010,113,15,0.13
+Gabon,SUB-SAHARAN,Yes,2017,134,24,0.18
+Gambia (The),SUB-SAHARAN,Yes,1960,41,0,0
+Gambia (The),SUB-SAHARAN,Yes,1970,41,0,0
+Gambia (The),SUB-SAHARAN,Yes,1980,49,3,0.06
+Gambia (The),SUB-SAHARAN,Yes,1990,51,4,0.08
+Gambia (The),SUB-SAHARAN,Yes,2000,53,7,0.13
+Gambia (The),SUB-SAHARAN,Yes,2010,53,4,0.08
+Gambia (The),SUB-SAHARAN,Yes,2017,58,6,0.1
+Ghana,SUB-SAHARAN,Yes,1960,104,10,0.1
+Ghana,SUB-SAHARAN,Yes,1970,140,2,0.01
+Ghana,SUB-SAHARAN,Yes,1980,140,5,0.04
+Ghana,SUB-SAHARAN,Yes,1990,200,16,0.08
+Ghana,SUB-SAHARAN,Yes,2000,200,18,0.09
+Ghana,SUB-SAHARAN,Yes,2010,228,18,0.08
+Ghana,SUB-SAHARAN,Yes,2017,275,30,0.11
+Greece,EUR,Yes,1960,300,2,0.01
+Greece,EUR,Yes,1970,300,6,0.02
+Greece,EUR,Yes,1980,300,13,0.04
+Greece,EUR,Yes,1990,300,14,0.05
+Greece,EUR,Yes,2000,300,26,0.09
+Greece,EUR,Yes,2010,300,52,0.17
+Greece,EUR,Yes,2017,300,69,0.23
+Guatemala,AME,Yes,1960,66,0,0
+Guatemala,AME,Yes,1970,49,1,0.02
+Guatemala,AME,Yes,1980,62,2,0.03
+Guatemala,AME,Yes,1990,116,6,0.05
+Guatemala,AME,Yes,2000,158,13,0.08
+Guatemala,AME,Yes,2010,158,21,0.13
+Guatemala,AME,Yes,2017,158,22,0.14
+Guyana,AME,Yes,1960,53,5,0.09
+Guyana,AME,Yes,1970,53,7,0.13
+Guyana,AME,Yes,1980,65 82,15,0.15
+Guyana,AME,Yes,1990,65,13,0.2
+Guyana,AME,Yes,2000,65,13,0.2
+Guyana,AME,Yes,2010,67,21,0.31
+Guyana,AME,Yes,2017,69,21,0.3
+Haiti,AME,Yes,1960,58,3,0.05
+Haiti,AME,Yes,1970,58,2,0.03
+Haiti,AME,Yes,1980,58,3,0.05
+Haiti,AME,Yes,1990,83,3,0.04
+Haiti,AME,Yes,2000,83,3,0.04
+Haiti,AME,Yes,2010,95,4,0.04
+Haiti,AME,Yes,2017,118,3,0.03
+Honduras,AME,Yes,1960,58,3,0.05
+Honduras,AME,Yes,1970,62,6,0.1
+Honduras,AME,Yes,1980,82,7,0.09
+Honduras,AME,Yes,1990,128,13,0.1
+Honduras,AME,Yes,2000,128,7,0.05
+Honduras,AME,Yes,2010,128,23,0.18
+Honduras,AME,Yes,2017,128,27,0.21
+Hungary,EUR,Yes,1960,338,62,0.18
+Hungary,EUR,Yes,1970,352,84,0.24
+Hungary,EUR,Yes,1980,352,106,0.3
+Hungary,EUR,Yes,1990,386,28,0.07
+Hungary,EUR,Yes,2000,386,33,0.09
+Hungary,EUR,Yes,2010,386,35,0.09
+Hungary,EUR,Yes,2017,199,25,0.13
+Iceland,EUR,Yes,1960,52,2,0.04
+Iceland,EUR,Yes,1970,60,3,0.05
+Iceland,EUR,Yes,1980,60,3,0.05
+Iceland,EUR,Yes,1990,63,15,0.24
+Iceland,EUR,Yes,2000,63,19,0.3
+Iceland,EUR,Yes,2010,63,27,0.43
+Iceland,EUR,Yes,2017,63,24,0.38
+India,ASIA,Yes,1960,503,34,0.07
+India,ASIA,Yes,1970,518,21,0.04
+India,ASIA,Yes,1980,537,27,0.05
+India,ASIA,Yes,1990,521,26,0.05
+India,ASIA,Yes,2000,543,45,0.08
+India,ASIA,Yes,2010,545,59,0.11
+India,ASIA,Yes,2017,243,29,0.12
+Indonesia,ASIA,Yes,1960,304,28,0.09
+Indonesia,ASIA,Yes,1970,460,33,0.07
+Indonesia,ASIA,Yes,1980,460,42,0.09
+Indonesia,ASIA,Yes,1990,500,61,0.12
+Indonesia,ASIA,Yes,2000,550,62,0.11
+Indonesia,ASIA,Yes,2010,560,93,0.17
+Indonesia,ASIA,Yes,2017,560,94,0.17
+Iran (Islamic Republic of),ASIA,Yes,1960,198,6,0.03
+Iran (Islamic Republic of),ASIA,Yes,1970,268,18,0.07
+Iran (Islamic Republic of),ASIA,Yes,1980,270,4,0.01
+Iran (Islamic Republic of),ASIA,Yes,1990,261,9,0.03
+Iran (Islamic Republic of),ASIA,Yes,2000,290,10,0.03
+Iran (Islamic Republic of),ASIA,Yes,2010,290,9,0.03
+Iran (Islamic Republic of),ASIA,Yes,2017,289,17,0.06
+Ireland,EUR,Yes,1960,144,3,0.02
+Ireland,EUR,Yes,1970,143,3,0.02
+Ireland,EUR,Yes,1980,166,10,0.06
+Ireland,EUR,Yes,1990,166,13,0.08
+Ireland,EUR,Yes,2000,166,22,0.13
+Ireland,EUR,Yes,2010,166,25,0.15
+Ireland,EUR,Yes,2017,166,27,0.16
+Israel,ASIA,Yes,1960,120,10,0.08
+Israel,ASIA,Yes,1970,120,8,0.07
+Israel,ASIA,Yes,1980,120,9,0.08
+Israel,ASIA,Yes,1990,120,11,0.09
+Israel,ASIA,Yes,2000,120,14,0.12
+Israel,ASIA,Yes,2010,120,21,0.18
+Israel,ASIA,Yes,2017,120,32,0.27
+Italy,EUR,Yes,1960,630,29,0.05
+Italy,EUR,Yes,1970,630,24,0.04
+Italy,EUR,Yes,1980,630,53,0.08
+Italy,EUR,Yes,1990,630,51,0.08
+Italy,EUR,Yes,2000,630,62,0.1
+Italy,EUR,Yes,2010,630,198,0.31
+Italy,EUR,Yes,2017,630,225,0.36
+Jamaica,AME,Yes,1960,53,2,0.04
+Jamaica,AME,Yes,1970,53,2,0.04
+Jamaica,AME,Yes,1980,60,6,0.1
+Jamaica,AME,Yes,1990,60,3,0.05
+Jamaica,AME,Yes,2000,60,7,0.12
+Jamaica,AME,Yes,2010,63,8,0.13
+Jamaica,AME,Yes,2017,63,11,0.17
+Japan,ASIA,Yes,1960,467,7,0.01
+Japan,ASIA,Yes,1970,486,8,0.02
+Japan,ASIA,Yes,1980,511,9,0.02
+Japan,ASIA,Yes,1990,512,12,0.02
+Japan,ASIA,Yes,2000,480,35,0.07
+Japan,ASIA,Yes,2010,480,54,0.11
+Japan,ASIA,Yes,2017,475,45,0.09
+Jordan,MENA,Yes,1960,60,0,0
+Jordan,MENA,Yes,1970,60,0,0
+Jordan,MENA,Yes,1990,80,0,0
+Jordan,MENA,Yes,2000,110,6,0.05
+Jordan,MENA,Yes,2010,120,13,0.11
+Jordan,MENA,Yes,2017,130,20,0.15
+Kenya,SUB-SAHARAN,Yes,1960,170,0,0
+Kenya,SUB-SAHARAN,Yes,1970,172,2,0.01
+Kenya,SUB-SAHARAN,Yes,1980,172,5,0.03
+Kenya,SUB-SAHARAN,Yes,1990,188,2,0.01
+Kenya,SUB-SAHARAN,Yes,2000,224,16,0.07
+Kenya,SUB-SAHARAN,Yes,2017,349,76,0.22
+Kuwait,MENA,Yes,1960,50,0,0
+Kuwait,MENA,Yes,1970,50,0,0
+Kuwait,MENA,Yes,1980,50,0,0
+Kuwait,MENA,Yes,1990,50,0,0
+Kuwait,MENA,Yes,2000,42,2,0.05
+Kuwait,MENA,Yes,2010,65,5,0.08
+Kuwait,MENA,Yes,2017,50,1,0.02
+Lao People's Democratic Republic,ASIA,Yes,1960,59,0,0
+Lao People's Democratic Republic,ASIA,Yes,1970,59,0,0
+Lao People's Democratic Republic,ASIA,Yes,1980,45,4,0.09
+Lao People's Democratic Republic,ASIA,Yes,1990,79,5,0.06
+Lao People's Democratic Republic,ASIA,Yes,2000,109,25,0.23
+Lao People's Democratic Republic,ASIA,Yes,2010,132,33,0.25
+Lao People's Democratic Republic,ASIA,Yes,2017,149,41,0.28
+Luxembourg,EUR,Yes,1960,52,0,0
+Luxembourg,EUR,Yes,1970,56,2,0.04
+Luxembourg,EUR,Yes,1980,59,8,0.14
+Luxembourg,EUR,Yes,1990,60,8,0.13
+Luxembourg,EUR,Yes,2000,60,10,0.17
+Luxembourg,EUR,Yes,2010,60,17,0.28
+Luxembourg,EUR,Yes,2017,60,12,0.2
+Madagascar,SUB-SAHARAN,Yes,1960,107,0,0
+Madagascar,SUB-SAHARAN,Yes,1970,104,6,0.06
+Madagascar,SUB-SAHARAN,Yes,1980,137,2,0.01
+Madagascar,SUB-SAHARAN,Yes,1990,138,9,0.07
+Madagascar,SUB-SAHARAN,Yes,2000,160,6,0.04
+Madagascar,SUB-SAHARAN,Yes,2010,256,32,0.12
+Madagascar,SUB-SAHARAN,Yes,2017,366,64,0.17
+Malaysia,ASIA,Yes,1960,104,3,0.03
+Malaysia,ASIA,Yes,1970,144,3,0.02
+Malaysia,ASIA,Yes,1980,154,7,0.05
+Malaysia,ASIA,Yes,1990,180,11,0.06
+Malaysia,ASIA,Yes,2000,193,14,0.07
+Malaysia,ASIA,Yes,2010,222,24,0.11
+Malaysia,ASIA,Yes,2017,223,31,0.14
+Mali,SUB-SAHARAN,Yes,1960,80,1,0.01
+Mali,SUB-SAHARAN,Yes,1980,82,3,0.04
+Mali,SUB-SAHARAN,Yes,1990,82,5,0.06
+Mali,SUB-SAHARAN,Yes,2000,147,15,0.1
+Mali,SUB-SAHARAN,Yes,2017,147,14,0.1
+Malta,EUR,Yes,1960,50,2,0.04
+Malta,EUR,Yes,1970,55,2,0.04
+Malta,EUR,Yes,1980,65,2,0.03
+Malta,EUR,Yes,1990,65,1,0.02
+Malta,EUR,Yes,2000,65,5,0.08
+Malta,EUR,Yes,2010,69,6,0.09
+Malta,EUR,Yes,2017,67,8,0.12
+Mauritania,SUB-SAHARAN,Yes,1960,40,0,0
+Mauritania,SUB-SAHARAN,Yes,1970,50,0,0
+Mauritania,SUB-SAHARAN,Yes,1980,70,2,0.03
+Mauritania,SUB-SAHARAN,Yes,1990,79,0,0
+Mauritania,SUB-SAHARAN,Yes,2000,81,3,0.04
+Mauritania,SUB-SAHARAN,Yes,2010,95,21,0.22
+Mauritania,SUB-SAHARAN,Yes,2017,153,31,0.2
+Mauritius,SUB-SAHARAN,Yes,1960,70,0,0
+Mauritius,SUB-SAHARAN,Yes,1970,70,3,0.04
+Mauritius,SUB-SAHARAN,Yes,1980,70,3,0.04
+Mauritius,SUB-SAHARAN,Yes,1990,70,2,0.03
+Mauritius,SUB-SAHARAN,Yes,2000,70,4,0.06
+Mauritius,SUB-SAHARAN,Yes,2010,69,13,0.19
+Mauritius,SUB-SAHARAN,Yes,2017,69,8,0.12
+Mexico,AME,Yes,1960,210,9,0.04
+Mexico,AME,Yes,1970,210,11,0.05
+Mexico,AME,Yes,1980,400,31,0.08
+Mexico,AME,Yes,1990,500,60,0.12
+Mexico,AME,Yes,2000,500,80,0.16
+Mexico,AME,Yes,2010,500,141,0.28
+Mexico,AME,Yes,2017,500,241,0.48
+Monaco,EUR,Yes,1960,18,1,0.06
+Monaco,EUR,Yes,1970,18,1,0.06
+Monaco,EUR,Yes,1980,18,2,0.11
+Monaco,EUR,Yes,1990,18,2,0.11
+Monaco,EUR,Yes,2000,24,5,0.21
+Monaco,EUR,Yes,2010,24,5,0.21
+Monaco,EUR,Yes,2017,24,8,0.33
+Mongolia,ASIA,Yes,1960,267,56,0.21
+Mongolia,ASIA,Yes,1970,297,65,0.22
+Mongolia,ASIA,Yes,1980,370,90,0.24
+Mongolia,ASIA,Yes,1990,430,9,0.02
+Mongolia,ASIA,Yes,2000,76,8,0.11
+Mongolia,ASIA,Yes,2010,72,3,0.04
+Mongolia,ASIA,Yes,2017,76,13,0.17
+Morocco,MENA,Yes,1960,202,0,0
+Morocco,MENA,Yes,1970,240,0,0
+Morocco,MENA,Yes,1980,306,0,0
+Morocco,MENA,Yes,1990,333,2,0.01
+Morocco,MENA,Yes,2000,325,35,0.11
+Morocco,MENA,Yes,2010,395,66,0.17
+Morocco,MENA,Yes,2017,395,81,0.2
+Nauru,PAC,Yes,1960,18,0,0
+Nauru,PAC,Yes,1970,18,0,0
+Nauru,PAC,Yes,1980,18,0,0
+Nauru,PAC,Yes,1990,18,1,0.06
+Nauru,PAC,Yes,2000,18,0,0
+Nauru,PAC,Yes,2010,18,0,0
+Nauru,PAC,Yes,2017,19,1,0.05
+Nepal,ASIA,Yes,1960,109,1,0.01
+Nepal,ASIA,Yes,1970,125,4,0.03
+Nepal,ASIA,Yes,1980,104,5,0.05
+Nepal,ASIA,Yes,1990,205,7,0.03
+Nepal,ASIA,Yes,2000,205,12,0.06
+Nepal,ASIA,Yes,2010,594,197,0.33
+Nepal,ASIA,Yes,2017,594,197,0.33
+Netherlands,EUR,Yes,1960,150,14,0.09
+Netherlands,EUR,Yes,1970,150,12,
+Netherlands,EUR,Yes,1980,150,17,0.11
+Netherlands,EUR,Yes,1990,150,32,0.21
+Netherlands,EUR,Yes,2000,150,51,0.34
+Netherlands,EUR,Yes,2010,150,61,0.41
+Netherlands,EUR,Yes,2017,150,54,0.36
+New Zealand,PAC,Yes,1960,80,4,0.05
+New Zealand,PAC,Yes,1970,84,4,0.05
+New Zealand,PAC,Yes,1980,92,8,0.09
+New Zealand,PAC,Yes,1990,97,16,0.16
+New Zealand,PAC,Yes,2000,120,35,0.29
+New Zealand,PAC,Yes,2010,121,39,0.32
+New Zealand,PAC,Yes,2017,120,46,0.38
+Nicaragua,AME,Yes,1960,54,0,0
+Nicaragua,AME,Yes,1970,70,8,0.11
+Nicaragua,AME,Yes,1980,51,11,0.22
+Nicaragua,AME,Yes,1990,92,15,0.16
+Nicaragua,AME,Yes,2000,92,19,0.21
+Nicaragua,AME,Yes,2010,92,37,0.4
+Nicaragua,AME,Yes,2017,92,42,0.46
+Niger,SUB-SAHARAN,Yes,1960,50,0,0
+Niger,SUB-SAHARAN,Yes,1970,50,0,0
+Niger,SUB-SAHARAN,Yes,1980,93,5,0.05
+Niger,SUB-SAHARAN,Yes,1990,83,5,0.06
+Niger,SUB-SAHARAN,Yes,2000,113,14,0.12
+Niger,SUB-SAHARAN,Yes,2010,113,15,0.13
+Niger,SUB-SAHARAN,Yes,2017,171,25,0.15
+Nigeria,SUB-SAHARAN,Yes,1960,312,,
+Nigeria,SUB-SAHARAN,Yes,1970,449,,
+Nigeria,SUB-SAHARAN,Yes,1980,450,,
+Nigeria,SUB-SAHARAN,Yes,1990,593,13,0.02
+Nigeria,SUB-SAHARAN,Yes,2000,360,17,0.05
+Nigeria,SUB-SAHARAN,Yes,2010,352,13,0.04
+Nigeria,SUB-SAHARAN,Yes,2017,360,20,0.06
+Norway,EUR,Yes,1960,150,13,0.09
+Norway,EUR,Yes,1970,150,14,0.09
+Norway,EUR,Yes,1980,155,40,0.26
+Norway,EUR,Yes,1990,165,59,0.36
+Norway,EUR,Yes,2000,165,60,0.36
+Norway,EUR,Yes,2010,169,67,0.4
+Norway,EUR,Yes,2017,169,70,0.41
+Panama,AME,Yes,1960,53,2,0.04
+Panama,AME,Yes,1970,38,1,0.03
+Panama,AME,Yes,1980,56,3,0.05
+Panama,AME,Yes,1990,67,5,0.07
+Panama,AME,Yes,2000,78,13,0.17
+Panama,AME,Yes,2010,71,6,0.08
+Panama,AME,Yes,2017,57,11,0.19
+Paraguay,AME,Yes,1960,60,0,0
+Paraguay,AME,Yes,1970,60,2,0.03
+Paraguay,AME,Yes,1980,60,1,0.02
+Paraguay,AME,Yes,1990,72,2,0.03
+Paraguay,AME,Yes,2000,80,7,0.09
+Paraguay,AME,Yes,2010,80,14,0.18
+Paraguay,AME,Yes,2017,80,12,0.15
+Philippines,ASIA,Yes,1960,106,2,0.02
+Philippines,ASIA,Yes,1970,109,3,0.03
+Philippines,ASIA,Yes,1980,197,11,0.06
+Philippines,ASIA,Yes,1990,216,23,0.11
+Philippines,ASIA,Yes,2000,214,38,0.18
+Philippines,ASIA,Yes,2010,229,49,0.21
+Philippines,ASIA,Yes,2017,292,87,0.3
+Poland,EUR,Yes,1960,460,60,0.13
+Poland,EUR,Yes,1970,460,62,0.13
+Poland,EUR,Yes,1980,460,106,0.23
+Poland,EUR,Yes,1990,460,62,0.13
+Poland,EUR,Yes,2000,460,93,0.2
+Poland,EUR,Yes,2010,458,110,0.24
+Poland,EUR,Yes,2017,460,126,0.27
+Portugal,EUR,Yes,1960,130,3,0.02
+Portugal,EUR,Yes,1970,130,4,0.03
+Portugal,EUR,Yes,1980,250,17,0.07
+Portugal,EUR,Yes,1990,230,30,0.13
+Portugal,EUR,Yes,2000,230,44,0.19
+Portugal,EUR,Yes,2010,230,64,0.28
+Portugal,EUR,Yes,2017,230,80,0.35
+Republic of Korea,ASIA,Yes,1960,233,1,0
+Republic of Korea,ASIA,Yes,1970,204,5,0.02
+Republic of Korea,ASIA,Yes,1980,231,8,0.03
+Republic of Korea,ASIA,Yes,1990,299,6,0.02
+Republic of Korea,ASIA,Yes,2000,273,10,0.04
+Republic of Korea,ASIA,Yes,2010,300,47,0.16
+Republic of Korea,ASIA,Yes,2017,300,51,0.17
+Romania,EUR,Yes,1960,465,77,0.17
+Romania,EUR,Yes,1970,465,67,0.14
+Romania,EUR,Yes,1980,369,122,0.33
+Romania,EUR,Yes,1990,387,14,0.04
+Romania,EUR,Yes,2000,345,37,0.11
+Romania,EUR,Yes,2010,412,55,0.13
+Romania,EUR,Yes,2017,401,55,0.14
+Rwanda,SUB-SAHARAN,Yes,1960,47,0,0
+Rwanda,SUB-SAHARAN,Yes,1970,47,0,0
+Rwanda,SUB-SAHARAN,Yes,1980,64,4,0.06
+Rwanda,SUB-SAHARAN,Yes,1990,70,12,0.17
+Rwanda,SUB-SAHARAN,Yes,2000,80,39,0.49
+Rwanda,SUB-SAHARAN,Yes,2010,80,45,0.56
+Rwanda,SUB-SAHARAN,Yes,2017,80,49,0.61
+Samoa,PAC,Yes,1960,47,1,0.02
+Samoa,PAC,Yes,1970,47,1,0.02
+Samoa,PAC,Yes,1980,47,1,0.02
+Samoa,PAC,Yes,1990,47,2,0.04
+Samoa,PAC,Yes,2000,49,3,0.06
+Samoa,PAC,Yes,2010,49,2,0.04
+Samoa,PAC,Yes,2017,50,5,0.1
+San Marino,EUR,Yes,1960,60,0,0
+San Marino,EUR,Yes,1970,60,0,0
+San Marino,EUR,Yes,1980,60,3,0.05
+San Marino,EUR,Yes,1990,60,7,0.12
+San Marino,EUR,Yes,2000,60,10,0.17
+San Marino,EUR,Yes,2010,60,10,0.17
+San Marino,EUR,Yes,2017,60,14,0.23
+Senegal,SUB-SAHARAN,Yes,1960,80,0,0
+Senegal,SUB-SAHARAN,Yes,1970,80,1,0.01
+Senegal,SUB-SAHARAN,Yes,1980,100,7,0.07
+Senegal,SUB-SAHARAN,Yes,1990,120,14,0.12
+Senegal,SUB-SAHARAN,Yes,2000,120,23,0.19
+Senegal,SUB-SAHARAN,Yes,2010,150,64,0.43
+Senegal,SUB-SAHARAN,Yes,2017,165,69,0.42
+Sierra Leone,SUB-SAHARAN,Yes,1960,97,,
+Sierra Leone,SUB-SAHARAN,Yes,1970,97,,
+Sierra Leone,SUB-SAHARAN,Yes,1980,100,0,0
+Sierra Leone,SUB-SAHARAN,Yes,1990,129,,
+Sierra Leone,SUB-SAHARAN,Yes,2000,124,18,0.15
+Sierra Leone,SUB-SAHARAN,Yes,2010,112,16,0.14
+Sierra Leone,SUB-SAHARAN,Yes,2017,146,18,0.12
+Singapore,ASIA,Yes,1960,51,3,0.06
+Singapore,ASIA,Yes,1970,65,0,0
+Singapore,ASIA,Yes,1980,75,0,0
+Singapore,ASIA,Yes,1990,81,3,0.04
+Singapore,ASIA,Yes,2000,85,10,0.12
+Singapore,ASIA,Yes,2010,90,20,0.22
+Singapore,ASIA,Yes,2017,92,22,0.24
+South Africa,SUB-SAHARAN,Yes,1960,160,3,0.02
+South Africa,SUB-SAHARAN,Yes,1970,166,2,0.01
+South Africa,SUB-SAHARAN,Yes,1980,177,2,0.01
+South Africa,SUB-SAHARAN,Yes,1990,400,100,0.25
+South Africa,SUB-SAHARAN,Yes,2000,400,120,0.3
+South Africa,SUB-SAHARAN,Yes,2010,400,178,0.44
+South Sudan,SUB-SAHARAN,Yes,2017,383,109,0.28
+Spain,EUR,Yes,1960,720,3,0
+Spain,EUR,Yes,1970,814,9,0.01
+Spain,EUR,Yes,1980,350,24,0.07
+Spain,EUR,Yes,1990,350,51,0.15
+Spain,EUR,Yes,2000,350,126,0.36
+Spain,EUR,Yes,2010,350,126,0.36
+Spain,EUR,Yes,2017,350,137,0.39
+Sri Lanka,ASIA,Yes,1960,157,2,0.01
+Sri Lanka,ASIA,Yes,1970,157,6,0.04
+Sri Lanka,ASIA,Yes,1980,168,4,0.02
+Sri Lanka,ASIA,Yes,1990,224,11,0.05
+Sri Lanka,ASIA,Yes,2000,225,9,0.04
+Sri Lanka,ASIA,Yes,2010,225,12,0.05
+Sri Lanka,ASIA,Yes,2017,225,11,0.05
+Sudan,MENA,Yes,1960,82,0,0
+Sudan,MENA,Yes,1970,255,14,0.05
+Sudan,MENA,Yes,1980,368,24,0.07
+Sudan,MENA,Yes,1990,400,21,0.05
+Sudan,MENA,Yes,2000,360,35,0.1
+Sudan,MENA,Yes,2010,446,114,0.26
+Sudan,MENA,Yes,2017,426,130,0.31
+Sweden,EUR,Yes,1960,232,32,0.14
+Sweden,EUR,Yes,1970,350,49,0.14
+Sweden,EUR,Yes,1980,349,97,0.28
+Sweden,EUR,Yes,1990,349,117,0.34
+Sweden,EUR,Yes,2000,349,158,0.45
+Sweden,EUR,Yes,2010,349,157,0.45
+Sweden,EUR,Yes,2017,349,161,0.46
+Thailand,ASIA,Yes,1960,160,4,0.02
+Thailand,ASIA,Yes,1970,299,0,0
+Thailand,ASIA,Yes,1980,301,9,0.03
+Thailand,ASIA,Yes,1990,292,11,0.04
+Thailand,ASIA,Yes,2000,500,46,0.09
+Thailand,ASIA,Yes,2010,500,79,0.16
+Thailand,ASIA,Yes,2017,197,12,0.06
+Trinidad and Tobago,AME,Yes,1960,30,1,0.03
+Trinidad and Tobago,AME,Yes,1970,36,1,0.03
+Trinidad and Tobago,AME,Yes,1980,36,6,0.17
+Trinidad and Tobago,AME,Yes,1990,37,5,0.14
+Trinidad and Tobago,AME,Yes,2000,37,4,0.11
+Trinidad and Tobago,AME,Yes,2010,41,12,0.29
+Trinidad and Tobago,AME,Yes,2017,42,13,0.31
+Tunisia,MENA,Yes,1960,90,1,0.01
+Tunisia,MENA,Yes,1970,108,4,0.04
+Tunisia,MENA,Yes,1980,136,7,0.05
+Tunisia,MENA,Yes,1990,141,6,0.04
+Tunisia,MENA,Yes,2000,182,21,0.12
+Tunisia,MENA,Yes,2010,217,57,0.26
+Tunisia,MENA,Yes,2017,217,68,0.31
+Turkey,EUR,Yes,1960,449,3,0.01
+Turkey,EUR,Yes,1970,450,5,0.01
+Turkey,EUR,Yes,1980,400,12,0.03
+Turkey,EUR,Yes,1990,450,8,0.02
+Turkey,EUR,Yes,2000,550,24,0.04
+Turkey,EUR,Yes,2010,550,78,0.14
+Turkey,EUR,Yes,2017,596,104,0.17
+United Kingdom,EUR,Yes,1960,630,25,0.04
+United Kingdom,EUR,Yes,1970,630,26,0.04
+United Kingdom,EUR,Yes,1980,635,19,0.03
+United Kingdom,EUR,Yes,1990,651,60,0.09
+United Kingdom,EUR,Yes,2000,659,120,0.18
+United Kingdom,EUR,Yes,2010,650,143,0.22
+United Kingdom,EUR,Yes,2017,650,208,0.32
+United States of America,AME,Yes,1960,440,17,0.04
+United States of America,AME,Yes,1970,440,10,0.02
+United States of America,AME,Yes,1980,440,16,0.04
+United States of America,AME,Yes,1990,436,28,0.06
+United States of America,AME,Yes,2000,435,56,0.13
+United States of America,AME,Yes,2010,435,73,0.17
+United States of America,AME,Yes,2017,434,102,0.24
+Uruguay,AME,Yes,1960,99,0,0
+Uruguay,AME,Yes,1970,99,1,0.01
+Uruguay,AME,Yes,1980,99,6,0.06
+Uruguay,AME,Yes,1990,99,7,0.07
+Uruguay,AME,Yes,2000,99,12,0.12
+Uruguay,AME,Yes,2010,99,14,0.14
+Uruguay,AME,Yes,2017,99,16,0.16
+Venezuela,AME,Yes,1960,178,6,0.03
+Venezuela,AME,Yes,1970,214,0,0
+Venezuela,AME,Yes,1980,199,6,0.03
+Venezuela,AME,Yes,1990,201,20,0.1
+Venezuela,AME,Yes,2000,165,16,0.1
+Venezuela,AME,Yes,2010,165,28,0.17
+Venezuela,AME,Yes,2017,167,24,0.14
+Zambia,SUB-SAHARAN,Yes,1960,111,2,0.02
+Zambia,SUB-SAHARAN,Yes,1970,136,8,0.06
+Zambia,SUB-SAHARAN,Yes,1980,136,6,0.04
+Zambia,SUB-SAHARAN,Yes,1990,150,10,0.07
+Zambia,SUB-SAHARAN,Yes,2000,158,19,0.12
+Zambia,SUB-SAHARAN,Yes,2010,155,17,0.11
+Zambia,SUB-SAHARAN,Yes,2017,167,30,0.18
+Cameroon,SUB-SAHARAN,Yes,2017,,0,0.33
+Djibouti,SUB-SAHARAN,Yes,1960,65,0,0
