@@ -16,28 +16,28 @@
 <div class="row p-4">
     <div class="card m-auto" style="width: 90%">
         <div class="card-body">
+            
+            <div class="container6">
+                <p>In many countries, women have been under-represented in the government and different institutions. 
+                    In 1960, only a few countries around the world included 
+                    women in their parliaments, however, women's representation increased overtime. The following plot shows how the percentage of women's participation for certain
+                countries around the world has risen from 1960 to 2017.</p>
+                <p1>Note: Certain countries have been excluded due to lack of available data.</p1>
+
+                <div id="chart6"></div>
+            </div>
+
             <div class="container0">
-                <p class="text0">ß
-                    The figure on the left shows the yearly percentage of women's participation in parliaments averaged 
-                    for all countries around the world from 1945 to 2018. 
-                    It is apparent that there is a historical tendency of insufficient representation,
-                    however women's representation increased overtime. Since 1995, there is an upwa
-
-                    starting with only a very small proportion 
-                    although the proportion of women parliamentarians is constantly increasing.
-                    increased overtime
-
-                    Before 1995
-                    in the later years upward trend
-                     
-
-                    there was an impressive rise through the last 20 years from 10% in 2000 to almost 25% in 2018.</p>
+                <p class="text0">
+                    It is apparent that there is a historical tendency of insufficient participation. 
+                    Looking at women's participation at global scale, we can see that the total seats held by women averaged for all the countries around the world
+                    started with only a very small proportion in the late fourties,less than 5%, marking an impressive rise through the last 20 years from 10% in 2000 
+                    to almost 25% in 2018.</p>
                 <div id="chart1" style="width:60%" style="float:left">
             </div>
 
         </div>
-            <p> In many countries, women have been under-represented in the government 
-                and different institutions. 
+            <p> 
                 The rise is more obvious looking at the global average of women's participation in national parliaments by 
                 decade as shown in the following figure. In the '50s and '60s, women accounted only for 5% of 
                 parliament members whilst in the late '70s, their percentage almost doubled to 9% of the total. 
@@ -50,25 +50,35 @@
             <div id="chart2" class="left"></div>
             <div id="chart3" class="right"></div>
         </div>
-        <p>Regional Trends</p>
-        <div class="container4">
-            <div id="chart4"></div>
-        </div>
-        <p>In five countries; Rwanda, Cuba, Nicaragua, Mexico, and the United Arab Emirates, women now account for 50 per cent or 
-            more MPs in their lower or single chambers.
-
-            Rwanda..
-            
-            In Europe, it's mostly the Nordic countries that have women holding over 40 per cent of parliamentary seats.
         
-            Women’s parliamentary representation in the Pacific is the lowest compared to other parts of the world. 
-            Despite Australia, New Zealand, and Fiji the region still counts many countries with less than 10% in representation and
-            the only three parliaments in the world with no women members (Federated States of Micronesia, Papua New Guinea and Vanuatu).
-
-        </p>
+        <p>As of 2021, in five countries; Rwanda, Cuba, Nicaragua, Mexico, and the United Arab Emirates, women now account for 50 per cent or 
+            more MPs in their lower or single chambers. A twenty six further  countries have reached or surpassed 40 per cent, 
+            including eleven countries in Europe, six in Sub-Saharan Africa, eight in Americas and one in the Pacific. 
+            However, there are countries in all regions except Europe that still have lower or single parliamentary
+            chambers with less than 5 per cent women. </p>
+            
         <div class="container5">
             <div id="chart5"></div>
         </div>
+
+        <p>In Europe, it's mostly the Nordic countries that have women holding over 40 per cent of parliamentary seats. 
+            Rwanda stands out, in Sub-Saharan Africa, being the world leader in terms of women representation.
+            In the Americas, women’s representation in politics varies considerably across subregion with the 
+            Caribbean holding the highest percentage of seats held by women in parliament, with Cuba leading the way.
+
+            In Asia, four countries have surpassed the 30 per cent mark for women’s
+            representation while the Pacific is the lowest compared to other parts of the world.
+            Despite Australia, New Zealand, and Fiji the region still counts many countries with less than 10% in representation and
+        the only three parliaments in the world with no women members (Federated States of Micronesia, Papua New Guinea and Vanuatu).
+        Until recently, the Middle East and North Africa (MENA) region also included parliaments with no women at all. However, today, women across 
+        the region enjoy the same political rights as men and United Arab Emirates became
+        the first country in the area to achieve parity.
+        </p>
+
+        <div class="container4">
+            <div id="chart4"></div>
+        </div>
+       <p>Overall, parliaments are moving in the direction of gender parity</p>
 
     </div>
 
@@ -91,6 +101,9 @@
 
     var graph5 = {{graph5JSON | safe}};
     Plotly.plot("chart5", graph5, {})
+
+    var graph6 = {{graph6JSON | safe}};
+    Plotly.plot("chart6", graph6, {})
 
 </script>
 
