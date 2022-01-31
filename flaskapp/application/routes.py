@@ -3,6 +3,7 @@ from flask import render_template, url_for
 import pandas as pd, numpy as np
 import plotly
 import plotly.express as px
+from plotly.offline import plot
 import json
 import plotly.graph_objects as go
 
@@ -10,11 +11,11 @@ import plotly.graph_objects as go
 @app.route("/")
 def index():
 
-    # Graph One
+    # Graph 1
     df = pd.read_csv('../data/avg_yearly.csv')
     df['women_perc'] = round(df['women_perc'], 2)
 
-    fig1 = px.line(df, x='year_', y=['women_perc','RM5'],
+    fig1 = px.line(df, x='year', y=['women_perc','RM5'],
             title="Women's Representation in Parliament from 1945 to 2018 (Global Average)",
             markers=True,
             labels=dict(year_='Year', women_perc='Participation (%)')
@@ -110,6 +111,28 @@ def index():
     fig5.update_layout(margin = dict(t=50, l=25, r=25, b=25))
     fig5.data[0].hovertemplate = "%{label}<br>%{value}%"
 
-    graph5JSON = json.dumps(fig5, cls=plotly.utils.PlotlyJSONEncoder) 
+    graph5JSON = json.dumps(fig5, cls=plotly.utils.PlotlyJSONEncoder)
 
-    return render_template("index.html", title="Home", graph1JSON = graph1JSON, graph2JSON = graph2JSON, graph3JSON = graph3JSON, graph4JSON = graph4JSON, graph5JSON = graph5JSON)
+
+    # Graph 6
+    df = pd.read_csv('../data/temp.csv')
+
+    fig6 = px.bar(df, x="region", y="women_perc",
+                  color="region",  hover_name="country",
+                  animation_frame="year", animation_group="country", range_y=[0,15],
+                  labels=dict(women_perc='Aggregate Women Percentage(%)', region='Region',year='Year'),
+                  title='Women Participation for Countries in Region - 1960 to 2017')
+    
+    fig6.update_layout(
+            font_family="Courier New",
+            font_color="grey",
+            title_font_family="Courier New",
+            title_font_color="#1f77b4",
+            legend_title_font_color="grey",
+            )
+    
+    graph6JSON = json.dumps(fig6, cls=plotly.utils.PlotlyJSONEncoder)
+
+    return render_template("index.html", title="Home", graph1JSON = graph1JSON, graph2JSON = graph2JSON, graph3JSON = graph3JSON, graph4JSON = graph4JSON, graph5JSON = graph5JSON,graph6JSON=graph6JSON)
+    
+    
