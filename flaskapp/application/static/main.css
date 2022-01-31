@@ -52,6 +52,11 @@ p {
   padding: 20px;
 }
 
+p1 {
+  padding: 20px;
+  font-size: 12px
+}
+
 div.container {
   display: grid;
   grid-template-columns: 500px 5px auto;
