@@ -115,7 +115,7 @@ def index():
 
 
     # Graph 6
-    df = pd.read_csv('../data/temp.csv')
+    df = pd.read_csv('../data/barchart.csv')
 
     fig6 = px.bar(df, x="region", y="women_perc",
                   color="region",  hover_name="country",
