@@ -104,3 +104,9 @@ div.clear {
   clear: both;
 }
 
+footer {
+  padding: 3%;
+  color: azure;
+  width: 900px
+}
+
