@@ -28,9 +28,8 @@ def index():
             title_font_family="Courier New",
             title_font_color="#1f77b4",
             legend_title_font_color="grey",
-            autosize=False,
-            width=800,
-            height=500
+            autosize=True,
+           
     )
 
     fig1.update_xaxes(nticks=10)
@@ -50,9 +49,7 @@ def index():
             title_font_family="Courier New",
             title_font_color="#1f77b4",
             legend_title_font_color="grey",
-            autosize=False,
-            width=800,
-            height=400
+            autosize=True
             )
     
     graph2JSON = json.dumps(fig2, cls=plotly.utils.PlotlyJSONEncoder)
@@ -65,7 +62,7 @@ def index():
     fig3 = go.Figure(data=[go.Table(header=dict(values=['Decade', 'Percentage Increase']),
                     cells=dict(values=[df_dec_avg.index[1:], df_dec_avg['perc_change'].iloc[1:]]))
                         ])
-    fig3.update_layout(autosize=False,  width=350, height=350)
+    fig3.update_layout(autosize=True,height=350)
 
     graph3JSON = json.dumps(fig3, cls=plotly.utils.PlotlyJSONEncoder)
 
@@ -89,10 +86,8 @@ def index():
             title_font_family="Courier New",
             title_font_color="#1f77b4",
             legend_title_font_color="grey",
-            autosize=False,
-            width=1100,
-            height=800
-            )
+            autosize=True,
+            height=1000)            
 
     graph4JSON = json.dumps(fig4, cls=plotly.utils.PlotlyJSONEncoder) 
 
