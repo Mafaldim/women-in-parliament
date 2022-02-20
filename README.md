@@ -28,14 +28,14 @@ The rise is more obvious looking at the global average of women's participation 
 Until recently, the Persian Gulf countries still included parliaments with no women at all; only in 2000 women were granted full political rights. Since then, Kuwait, Oman and Qatar have not reached more than 10% women in their national legislature, although, Iraq, Saudi Arabia, and United Arab Emirates have crossed the 20% barrier. 
 At the same time, since 2000, Sudan, Algeria and Morroco have achieved the highest rise in parliamentary representation whilst many countries in the Middle East and North Africa region (MENA) have introduced quota systems to guarantee female representation in parliament.
 
+In the recent years, in Asia, only Timor-Leste and Nepal (highest growth rate) have surpassed the 30 per cent mark of women's representation due to post-conflict legal reforms. Reforms of the same nature were applied to Afghanistan after 2001 to guarantee women’s full and equal participation in political life resulting in 28% of total seats allocated to female candidates in 2018.
+
 <figure>
 <p align="center">
 <img src="figures/figure4.png" alt="Figure 4" width="500">
 <figcaption align = "center"><b>Figure 4: Women's Parliament Participation from 1945 to 2018 - Country Level.</b></figcaption>
 </p>
 </figure>
-
-In the recent years, in Asia, only Timor-Leste and Nepal (highest growth rate) have surpassed the 30 per cent mark of women's representation due to post-conflict legal reforms. Reforms of the same nature were applied to Afghanistan after 2001 to guarantee women’s full and equal participation in political life resulting in 28% of total seats allocated to female candidates in 2018.
 
 Sub-Saharan Africa countries recorded similar growth rates with the majority reaching up to 15% in women's representation. Although, certain sub-Saharan countries have showed significant growth: Namimbia's female representation rose to 42% in 2014, Senegal's doubled its figure to 43% in 2012 as did Seychelles. In the most recent years, Mozambique and South-Africa have surpassed the 30% threshold whilst Rwanda lead the way globally being the only country in the world where female pepresentation exceeded 60%. It is worth noticing that most of the sub-Saharan countries that have recorded high level of women's representation have achieved this through the use of quotas.
 
