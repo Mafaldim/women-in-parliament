@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 def index():
 
     # Graph 1
-    df = pd.read_csv('../data/avg_yearly.csv')
+    df = pd.read_csv('./data/avg_yearly.csv')
     df['women_perc'] = round(df['women_perc'], 2)
 
     fig1 = px.line(df, x='year', y=['women_perc','RM5'],
@@ -67,7 +67,7 @@ def index():
     graph3JSON = json.dumps(fig3, cls=plotly.utils.PlotlyJSONEncoder)
 
     # Graph 4
-    df_historic_iso = pd.read_csv('../data/df_historic_iso.csv')
+    df_historic_iso = pd.read_csv('./data/df_historic_iso.csv')
 
     fig4 = px.scatter(df_historic_iso, x="country", y="women_perc"
                     ,color="year",color_continuous_scale=px.colors.sequential.Turbo
@@ -93,7 +93,7 @@ def index():
 
 
     # Graph 5
-    df_2021_region = pd.read_csv('../data/women_percent_as_of2021_with_regions.csv')
+    df_2021_region = pd.read_csv('./data/women_percent_as_of2021_with_regions.csv')
     fig5 = px.treemap(df_2021_region, 
                  path=[px.Constant("world"), 'region', 'country'], 
                  values='%W',
@@ -110,7 +110,7 @@ def index():
 
 
     # Graph 6
-    df = pd.read_csv('../data/barchart.csv')
+    df = pd.read_csv('./data/barchart.csv')
 
     fig6 = px.bar(df, x="region", y="women_perc",
                   color="region",  hover_name="country",
