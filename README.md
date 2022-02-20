@@ -25,7 +25,14 @@ The rise is more obvious looking at the global average of women's participation 
 
 ## Country Level - Participation through the years
 
-Examining women's participation by country level, we can see parliaments all over the world slowly moving in the direction of gender parity. In the past 25 years, the implementation of legislated or voluntary gender quotas have spread to all regions of the world, driving up women’s representation in parliaments. Rwanda, United Arab Emirates, Mexico and Nicaragua are examples of the successful implementation of legislated quotas that yielded positive results.
+Until recently, the Persian Gulf countries still included parliaments with no women at all; only in 2000 women were granted full political rights. Since then, Kuwait, Oman and Qatar have not reached more than 10% women in their national legislature, although, Iraq, Saudi Arabia, and United Arab Emirates have crossed the 20% barrier. 
+At the same time, since 2000, Sudan, Algeria and Morroco have achieved the highest rise in parliamentary representation whilst many countries in the Middle East and North Africa region (MENA) have introduced quota systems to guarantee female representation in parliament.
+
+In the recent years, in Asia, only Timor-Leste and Nepal (highest growth rate) have surpassed the 30 per cent mark of women's representation due to post-conflict legal reforms. Reforms of the same nature were applied to Afghanistan after 2001 to guarantee women’s full and equal participation in political life resulting in 28% of total seats allocated to female candidates in 2018.
+
+Sub-Saharan Africa countries recorded similar growth rates with the majority reaching up to 15% in women's representation. Although, certain sub-Saharan countries have showed significant growth: Namimbia's female representation rose to 42% in 2014, Senegal's doubled its figure to 43% in 2012 as did Seychelles. In the most recent years, Mozambique and South-Africa have surpassed the 30% threshold whilst Rwanda lead the way globally being the only country in the world where female pepresentation exceeded 60%. It is worth noticing that most of the sub-Saharan countries that have recorded high level of women's representation have achieved this through the use of quotas.
+
+Women's participation in parliament in the Americas has recorded the highest growth in the last 20 years with Cuba, Bolivia, Mexico and Nicaragua being amongst the countries with the highest share of women representation in the world in the recent years. 
 
 <figure>
 <p align="center">
@@ -42,3 +49,5 @@ As of 2021, in five countries; Rwanda, Cuba, Nicaragua, Mexico, and the United A
 <figcaption align = "center"><b>Figure 5: Women's Parliament Participation in 2021.</b></figcaption>
 </p>
 </figure>
+
+Overall, parliaments are moving in the direction of gender parity. In the past 25 years, the implementation of legislated or voluntary gender quotas have spread to all regions of the world, driving up women’s representation in parliaments. Rwanda, United Arab Emirates, Mexico and Nicaragua are examples of the successful implementation of legislated quotas that yielded positive results. Such active steps as adopting a legislated quota requiring 50 per cent women’s representation in parliament for all countries are needed to accelerate the change that will lead to gender parity in parliaments and mark an important step towards equality in political life.
