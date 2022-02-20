@@ -1,5 +1,5 @@
 ## Data Source: 
-- [IPU Parline - Global data on national parliaments](https://data.ipu.org/historical-women) from 1945 to 2018
+- [IPU Parline - Global data on national parliaments](https://data.ipu.org/historical-women) - Historical data on women in national parliaments from 1945 to 2018.
 - [World Population - United Nations](https://population.un.org/wpp/Download/Standard/Population/)
 - [Ranking as of 1st September 2021](https://data.ipu.org/women-ranking?month=9&year=2021)
 
@@ -17,3 +17,7 @@ Unicameralism is the practice of having a single legislative or parliamentary ch
 As of 2015, about 40% of world's national legislatures are bicameral, and about 60% are unicameral
 
 - Constituent Assembly
+
+The original dataset included information in women participation by country level from 1945-2018. In order to get an overview about the subject, the yearly average percentage of women participation has been calculated
+
+In the present notebook, a historical dataset on the percentage of women in parliament between 1945-2018 derived from [Inter-Parliamentary Union (IPU) Parline](https://data.ipu.org/historical-women) is being explored through interactive graphs using [Plotly](https://plotly.com/) Python library.
