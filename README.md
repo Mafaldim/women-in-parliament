@@ -1,4 +1,4 @@
-# Interacrtive Web Visualization with Plotly and Flask
+# Interactive Web Visualization with Plotly and Flask
 
 
 ## Women Representation in National Parliaments
