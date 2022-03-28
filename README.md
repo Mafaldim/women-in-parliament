@@ -8,3 +8,6 @@ Flask app was deployed on heroku -> https://womeninparliament.herokuapp.com/
 
 ![](./figures/barplot.gif)
 
+
+![](./figures/lineplot.gif)
+
