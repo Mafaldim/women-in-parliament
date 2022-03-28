@@ -6,3 +6,5 @@ This demonstration uses Python Plotly, Flask and HTML/CSS to visualise gender ba
 
 Flask app was deployed on heroku -> https://womeninparliament.herokuapp.com/
 
+![](./figures/barplot.gif)
+
